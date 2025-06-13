@@ -2,3 +2,4 @@ body { background: #f5f8fa; font-family: 'Inter', sans-serif; color: #000; }
 input.input { border: 1px solid #ddd; padding: 8px 12px; margin-right: 8px; margin-bottom: 8px; border-radius: 4px; }
 .container { background: #fff; border-radius: 8px; padding: 32px; margin-top: 32px; box-shadow: 0 6px 32px rgba(0,0,0,0.07); }
 ul { list-style: none; padding: 0; }
+
